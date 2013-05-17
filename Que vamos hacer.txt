@@ -18,3 +18,7 @@ los alcances de la aplicacion y las tecnologias que se usaran.
 
 Se debe hacer la carta gant donde se planificaran todos los tiempos de los siguientes pasos.
 se debe repartir las investigacion (gps, lenguaje java, git, bases de datos, etc) entre los miembros del grupo.
+
+
+
+Actu
