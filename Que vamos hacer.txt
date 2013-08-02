@@ -11,7 +11,7 @@ Pasos
 
 Documento Preliminar (Documento requerimiento)
 Detallaremos el problema detectado, nuestra solucion, los actores
-los bosquejos preliminares del diseño de la aplicacion, los posibles casos de uso 
+los bosquejos preliminares del diseï¿½o de la aplicacion, los posibles casos de uso 
 los alcances de la aplicacion y las tecnologias que se usaran.
 
 2.-Investigacion:
@@ -20,5 +20,8 @@ Se debe hacer la carta gant donde se planificaran todos los tiempos de los sigui
 se debe repartir las investigacion (gps, lenguaje java, git, bases de datos, etc) entre los miembros del grupo.
 
 
+Hoy 02/08/2013 replamteamos los alcances del proyecto en el cual estabamos trabajando lo cual nos dara el tiempo
+suficiente para terminar el proyecto en el tiempo planteado por el profesor lo cual nos deja con 3 horas diarias 
+para trabajar en el proyecto.
 
-Actujh
+diariamente seran actualizados los codigos que se iran creando.
